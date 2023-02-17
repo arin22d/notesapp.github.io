@@ -1,5 +1,4 @@
-// C R U D
-// Create Read Update Delete Search
+
 
 let addNoteContainer = document.getElementById("addNoteContainer");
 
